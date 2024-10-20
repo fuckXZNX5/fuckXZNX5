@@ -52,7 +52,7 @@ don't click
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BXZNX5%7D/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BfuckXZNX5%7D/count.svg" /></p> 
 <br>
 </div>
 
