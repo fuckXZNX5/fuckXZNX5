@@ -10,7 +10,7 @@
 
  ### My DISCORD is: 
 
-![youarebigmotherfucker](https://img.shields.io/badge/-%20youarebigmotherfucker-B22222?style=for-the-badge&labelColor=0D1117)
+![youareabigmotherfucker](https://img.shields.io/badge/-%20youareabigmotherfucker-B22222?style=for-the-badge&labelColor=0D1117)
 
 
 
