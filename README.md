@@ -10,7 +10,7 @@
 
  ### My DISCORD is: 
 
-!xznx5.
+###### youarethebigmotherfucker
 
 
 
@@ -22,9 +22,9 @@
 !C&nbsp;
 !Kernel&nbsp;
 
-I'm in the area of:
-!Software Developer
-!gaming hacking
+#### I'm in the area of:
+###### Software Developer
+###### gaming hacking
 
 
 <div align="center">
