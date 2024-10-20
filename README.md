@@ -10,21 +10,19 @@
 
  ### My DISCORD is: 
 
-###### youarethebigmotherfucker
+![youarebigmotherfucker](https://img.shields.io/badge/-%20.xznx5-B22222?style=for-the-badge&labelColor=0D1117)
 
 
 
 
 
  ### My Specialties:
-!C#&nbsp;
-!C++&nbsp;
-!C&nbsp;
-!Kernel&nbsp;
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
 
-#### I'm in the area of:
-###### Software Developer
-###### gaming hacking
+I'm in the area of:
+![Software Developer](https://img.shields.io/badge/-Software%20Developer-B22222?style=for-the-badge&labelColor=0D1117)
+![gaming hacking](https://img.shields.io/badge/-gaming%20hacking-B22222?style=for-the-badge&labelColor=0D1117)
 
 
 <div align="center">
